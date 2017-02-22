@@ -2,6 +2,12 @@ Thomas Edward Johnson
 tjoh191@lsu.edu
 02/21/2017
 --------------------------------------------------------------------------------------------------------
+Information
+--------------------------------------------------------------------------------------------------------
+This project is for my Big Data Tech class. Using a VM provided by Cloudera, we are able to simulate a
+distributed system running HDFS.
+
+-------------------------------------------------------------------------------------------------------- 
 Command
 --------------------------------------------------------------------------------------------------------
 hadoop jar lastrequest.jar stubs.ProcessLogs weblog <output directory>
