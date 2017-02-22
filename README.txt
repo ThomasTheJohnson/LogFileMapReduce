@@ -12,8 +12,7 @@ comes from the weblog directory we uploaded earlier in the semester but the name
 
 --------------------------------------------------------------------------------------------------------
 
-Hope your day is well! 
-		     ______
+	              ______
     ________________//      \\
    /    	   /	  ^  \\	
   /  		   |	      \\  __
